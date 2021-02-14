@@ -173,6 +173,7 @@ function getAverageGoals(homeAvg, awawyAvg) {
 
 console.log(getAverageGoals(homeAvg, awawyAvg))
 
+console.log('wops')
 
 
 
